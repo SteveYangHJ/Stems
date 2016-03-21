@@ -21,6 +21,10 @@ Java应用--一个松散的术语，从受约束的applets到N层服务端企业
 
 Spring框架的IoC组件提供了一个将不同的组件组合为一个已经可用的完全工作的应用的正式的方法，解决了这一问题。Spring框架把形式化的设计模式编纂为一等对象(first-class objects)，你可以集成到你自己的应用。众多组织和机构以这种方式使用Spring框架，来设计健壮的、可维护的应用。
 
+|Bacokground背景: 
+"The question is, what aspect of control are [they] inverting?" Martin Fowler posed this question about Inversion of Control (IoC) on his site in 2004. Fowler suggested renaming the principle to make it more self-explanatory and came up with Dependency Injection.
+"问题是,控制的什么方面是反转?" 2004年,马丁•福勒在他个人网站上提出这个关于IoC的问题. 福勒建议重命名这一原则,使其更一目了然, 提出了依赖注入.|
+
 ### 1.2 Modules - 模块
 Spring框架的各种功能组织为大约20个模块。这些模块被分类为下图所示的几组：Core Container，Data Access/Integration，Web，AOP，Instrumentation和Test。
 ![Overview of the Spring Framework](http://docs.spring.io/spring/docs/3.2.16.RELEASE/spring-framework-reference/htmlsingle/images/spring-overview.png)
