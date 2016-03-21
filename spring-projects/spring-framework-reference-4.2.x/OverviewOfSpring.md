@@ -27,7 +27,10 @@ Spring框架的IoC组件提供了一个将不同的组件组合为一个已经�
 
 ### 1.2 Modules - 模块
 Spring框架的各种功能组织为大约20个模块。这些模块被分类为下图所示的几组：Core Container，Data Access/Integration，Web，AOP，Instrumentation和Test。
-![Overview of the Spring Framework](http://docs.spring.io/spring/docs/3.2.16.RELEASE/spring-framework-reference/htmlsingle/images/spring-overview.png)
+
+![Overview of the Spring Framework](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/images/spring-overview.png)
+
+下面的章节列出了每一个功能的可用模块,连同它们的名称和涉及的主题. 工件名称与其在依赖管理工具中的工件Ids相关联.
 
 #### 1.2.1 Core Container - 核心容器
 Core Container包含Core, Beans, Context和Expression Language模块。
