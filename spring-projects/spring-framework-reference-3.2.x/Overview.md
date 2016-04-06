@@ -1,3 +1,9 @@
+# Spring3.2.16 Agenda
+
+标签（空格分隔）： Spring3.2.16
+
+---
+
 # Spring-Framework Reference Documentation
 [Reference]:http://docs.spring.io/spring/docs/3.2.16.RELEASE/spring-framework-reference/htmlsingle/
 
@@ -253,20 +259,20 @@ Other notes relating to wildcards
 #### 7.4.2. Built-in PropertyEditor implementations
 Registering additional custom PropertyEditors
 ### 7.5. Spring 3 Type Conversion
-7.5.1. Converter SPI
-7.5.2. ConverterFactory
-7.5.3. GenericConverter
+#### 7.5.1. Converter SPI
+#### 7.5.2. ConverterFactory
+#### 7.5.3. GenericConverter
 ConditionalGenericConverter
-7.5.4. ConversionService API
-7.5.5. Configuring a ConversionService
-7.5.6. Using a ConversionService programmatically
+#### 7.5.4. ConversionService API
+#### 7.5.5. Configuring a ConversionService
+#### 7.5.6. Using a ConversionService programmatically
 ### 7.6. Spring 3 Field Formatting
-7.6.1. Formatter SPI
-7.6.2. Annotation-driven Formatting
+#### 7.6.1. Formatter SPI
+#### 7.6.2. Annotation-driven Formatting
 Format Annotation API
-7.6.3. FormatterRegistry SPI
-7.6.4. FormatterRegistrar SPI
-7.6.5. Configuring Formatting in Spring MVC
+#### 7.6.3. FormatterRegistry SPI
+#### 7.6.4. FormatterRegistrar SPI
+#### 7.6.5. Configuring Formatting in Spring MVC
 ### 7.7. Configuring a global date & time format
 ### 7.8. Spring 3 Validation
 #### 7.8.1. Overview of the JSR-303 Bean Validation API
@@ -597,30 +603,31 @@ Dealing with multiple persistence units
 #### 15.6.3. Implementing DAOs based on plain iBATIS API
 
 ## 16. Marshalling XML using O/X Mappers
-16.1. Introduction
-16.2. Marshaller and Unmarshaller
-16.2.1. Marshaller
-16.2.2. Unmarshaller
-16.2.3. XmlMappingException
-16.3. Using Marshaller and Unmarshaller
-16.4. XML Schema-based Configuration
-16.5. JAXB
-16.5.1. Jaxb2Marshaller
+### 16.1. Introduction
+### 16.2. Marshaller and Unmarshaller
+#### 16.2.1. Marshaller
+#### 16.2.2. Unmarshaller
+#### 16.2.3. XmlMappingException
+### 16.3. Using Marshaller and Unmarshaller
+### 16.4. XML Schema-based Configuration
+### 16.5. JAXB
+#### 16.5.1. Jaxb2Marshaller
 XML Schema-based Configuration
-16.6. Castor
-16.6.1. CastorMarshaller
-16.6.2. Mapping
+### 16.6. Castor
+#### 16.6.1. CastorMarshaller
+#### 16.6.2. Mapping
 XML Schema-based Configuration
-16.7. XMLBeans
-16.7.1. XmlBeansMarshaller
+### 16.7. XMLBeans
+#### 16.7.1. XmlBeansMarshaller
 XML Schema-based Configuration
-16.8. JiBX
-16.8.1. JibxMarshaller
+### 16.8. JiBX
+#### 16.8.1. JibxMarshaller
 XML Schema-based Configuration
-16.9. XStream
-16.9.1. XStreamMarshaller
-V. The Web
-17. Web MVC framework
+### 16.9. XStream
+#### 16.9.1. XStreamMarshaller
+
+#V. The Web
+## 17. Web MVC framework
 17.1. Introduction to Spring Web MVC framework
 17.1.1. Features of Spring Web MVC
 17.1.2. Pluggability of other MVC implementations
@@ -1191,3 +1198,8 @@ H.12. The radiobutton tag
 H.13. The radiobuttons tag
 H.14. The select tag
 H.15. The textarea tag
+
+
+
+
+
